@@ -115,7 +115,7 @@ font-size: 52px;
     
 }
 
-.foto4 {
+.imagen4 {
     width: 100%;
 }
 
@@ -128,18 +128,18 @@ font-size: 52px;
     color: white;
 }
 
-.copy{
+.parrafo14{
  padding: 12%;
 }
 
-.column20{
+.column40{
     width: 20%;
     float: left;
     padding: 0%;
     flex-direction: column;
 }
 
-.column30{
+.column50{
     width: 30%;
     float: left;
     padding: 0%;
@@ -166,8 +166,8 @@ font-size: 52px;
     padding-bottom: 15%;
 }
 
-@media screen and (max-width:700px) {
-    .encabezado{
+@media screen and (max-width:800px) {
+    .parrafo7{
         padding: 2%;
         font-size: 110px;
     }
@@ -175,14 +175,14 @@ font-size: 52px;
     .column2 {
         width: 100%;
     }
-    .imagen1 {
+    .foto3 {
         padding: 5%;
     }
 
     .column4 {
         width: 50%;
     }
-    .texto-imagen {
+    .texto {
         font-size: 20px;
         
     }

@@ -167,7 +167,7 @@ font-size: 52px;
 }
 
 @media screen and (max-width:700px) {
-    .encabezado{
+    .parrafo7{
         padding: 2%;
         font-size: 110px;
     }
@@ -182,12 +182,12 @@ font-size: 52px;
     .column4 {
         width: 50%;
     }
-    .texto-imagen {
+    .texto {
         font-size: 20px;
         
     }
 
-    .parrafo3{
+    .parrafo10{
         font-size: 50px;
     }
 
@@ -197,18 +197,18 @@ font-size: 52px;
         
     }
 
-    .a {
+    .parrafo13 {
         font-size: 50px;
     }
 
-    .column20{
+    .column40{
         width: 50%;
     }
-  .column30{
+  .column50{
     width: 50%;
     }
 
-    .copy{
+    .parrafo14{
         font-size: 28px;
         padding-left: 10%;
         padding-top: 20%;

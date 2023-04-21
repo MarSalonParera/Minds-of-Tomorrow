@@ -27,7 +27,7 @@ body {
     justify-content: center;
 }
 
-.parrafo7 {
+.encabezado {
     text-align: center;
     font-size: 80px;
     margin: 0%;
@@ -41,7 +41,7 @@ body {
     
 }
 
-.parrafo8 {
+.parrafo1 {
 padding-left: 10%;
 padding-top: 7%;
 padding-right: 12%;
@@ -50,7 +50,7 @@ font-size: 52px;
 
 }
 
-.parrafo9 {
+.parrafo2 {
     padding-left: 10%;
     padding-top: 7%;
     padding-right: 12%;
@@ -78,7 +78,7 @@ font-size: 52px;
     font-size: 0%;
 }
 
-.parrafo10{
+.parrafo3{
     text-align: center;
     font-size: 70px;
     padding-bottom: 6%;
@@ -86,7 +86,7 @@ font-size: 52px;
     padding-right: 1%;
     padding-left: 1%;
 }
-.parrafo13 {
+.a {
     text-align: center;
     font-size: 70px;
     padding-bottom: 6%;
@@ -94,7 +94,7 @@ font-size: 52px;
     padding-right: 5%;
     padding-left: 5%;
 }
-.fotos {
+.imagenes {
     width: 100%;
     padding-top: 5%;
     padding-left: 15%;
@@ -102,14 +102,14 @@ font-size: 52px;
     padding-bottom: 10%;
 }
 
-.texto{ 
+.texto-imagen {
     text-align:center;
     padding-top: 6%;
     font-size: 12px;
     
 }
 
-.foto1 {
+.imagen2 {
     width: 100%;
     padding: 12%;
     
@@ -128,18 +128,18 @@ font-size: 52px;
     color: white;
 }
 
-.parrafo14{
+.copy{
  padding: 12%;
 }
 
-.column40{
+.column20{
     width: 20%;
     float: left;
     padding: 0%;
     flex-direction: column;
 }
 
-.column50{
+.column30{
     width: 30%;
     float: left;
     padding: 0%;
@@ -166,8 +166,8 @@ font-size: 52px;
     padding-bottom: 15%;
 }
 
-@media screen and (max-width:800px) {
-    .parrafo7{
+@media screen and (max-width:700px) {
+    .encabezado{
         padding: 2%;
         font-size: 110px;
     }
@@ -175,14 +175,14 @@ font-size: 52px;
     .column2 {
         width: 100%;
     }
-    .foto3 {
+    .imagen1 {
         padding: 5%;
     }
 
     .column4 {
         width: 50%;
     }
-    .texto {
+    .texto-imagen {
         font-size: 20px;
         
     }

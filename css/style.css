@@ -128,18 +128,18 @@ font-size: 52px;
     color: white;
 }
 
-.copy{
+.parrafo14{
  padding: 12%;
 }
 
-.column20{
+.column40{
     width: 20%;
     float: left;
     padding: 0%;
     flex-direction: column;
 }
 
-.column30{
+.column50{
     width: 30%;
     float: left;
     padding: 0%;
